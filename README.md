@@ -42,5 +42,4 @@ git clone [SSH HERE]
 ```
 npm start
 ```
-<br>
-6. Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally.
+6. Once your server has started, go to this url `localhost:1234` to see the portfolio locally.
